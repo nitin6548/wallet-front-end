@@ -1,0 +1,9 @@
+fileignoreconfig:
+- filename: yarn.lock
+  checksum: e8f16d2fcbd60e03a539cb9ad94e78fbfc4db87cc39c2f6674c3adb0c27f11c3
+- filename: package-lock.json
+  checksum: 7b22996f674ebe3ab62a504cd50b4c85626b14185532eb421bd7b4cda0e050b2
+- filename: src/ComponentsStudy/Greet.js
+  checksum: 382827ff766bd18758694c931925292b65256903c9e6613bc5e254819f4d2a75
+- filename: src/Components/SignUp.js
+  checksum: f50fdeb5f1e70ad431777564eef1b391e195acbde5fea18f04cf955235bd195a
